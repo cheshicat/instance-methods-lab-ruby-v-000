@@ -2,8 +2,8 @@ class Person
   def talk
     puts "Hello World!"
   end
-  def sit
-    puts "The Dog is sitting"
+  def walk
+    puts "The Person is walking"
   end
 end
 
