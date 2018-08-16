@@ -6,7 +6,3 @@ class Person
     puts "The Person is walking"
   end
 end
-
-fido = Dog.new
-fido.bark
-fido.sit
